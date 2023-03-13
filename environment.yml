@@ -1,4 +1,4 @@
-name: null
+name: kmi
 channels:
   - conda-forge
   - defaults
@@ -7,3 +7,4 @@ dependencies:
   - jupyter
   - numpy
   - pandas
+  - matplotlib
