@@ -10,3 +10,6 @@ dependencies:
   - matplotlib
   - openpyxl=3.1.0
   - xlrd
+  - seaborn
+  - wordcloud
+  - folium
