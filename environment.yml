@@ -13,3 +13,4 @@ dependencies:
   - seaborn
   - wordcloud
   - folium
+  - scipy
