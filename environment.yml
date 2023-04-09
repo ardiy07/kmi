@@ -15,3 +15,5 @@ dependencies:
   - folium
   - scipy
   - scikit-learn
+  - graphviz
+  - pydotplus
